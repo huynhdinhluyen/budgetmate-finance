@@ -1,0 +1,27 @@
+{
+  "name": "BudgetMate - Smart Budget Management",
+  "short_name": "BudgetMate",
+  "description": "Track expenses, set goals, and build healthy financial habits with your community.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E0F2FE",
+  "theme_color": "#004AAD",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/budgetmate_logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/budgetmate_logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["finance", "productivity", "lifestyle"],
+  "lang": "en",
+  "dir": "ltr"
+}
