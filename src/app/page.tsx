@@ -212,9 +212,6 @@ export default function Home() {
                 </svg>
                 <span>{isDownloading ? "Downloading APK..." : "Download"}</span>
               </button>
-              <button className="px-6 sm:px-8 py-3 sm:py-4 backdrop-blur-sm bg-[#A8D2F0]/30 text-[#004AAD] rounded-2xl font-semibold border border-[#004AAD]/20 hover:bg-[#A8D2F0]/50 transition-all duration-300 transform hover:scale-105 hover:border-[#00BCFF]/40 cursor-pointer text-sm sm:text-base">
-                Learn More
-              </button>
             </div>
 
             <div className="flex items-center justify-center lg:justify-start space-x-4 sm:space-x-8 pt-6 sm:pt-8 animate-fade-in-up animation-delay-500">
