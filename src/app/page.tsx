@@ -61,7 +61,7 @@ export default function Home() {
 
   const handleDownload = () => {
     setIsDownloading(true);
-    const apkUrl = 'https://expo.dev/artifacts/eas/ofedEkWy4pyqPMvF3oYVMm.apk';
+    const apkUrl = 'https://expo.dev/artifacts/eas/oHd6weQKymLt3AVchnFdES.apk';
     const link = document.createElement('a');
     link.href = apkUrl;
     link.download = 'BudgetMate.apk';
